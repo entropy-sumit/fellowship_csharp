@@ -9,7 +9,10 @@ namespace Demo2
         {
 
             Calculator objCalculator = new Calculator();
-            Console.WriteLine("totalvalue="+ objCalculator.isSum(20, 20));
+            Console.WriteLine("totalSum="+objCalculator.isSum(20, 20));
+            Console.WriteLine("totalSub="+objCalculator.isSum(20, 20));
+            Console.WriteLine("totalMul="+objCalculator.isSum(20, 20));
+            Console.WriteLine("totalDiv="+objCalculator.isSum(20, 20));
             Console.ReadKey();
 
         }
