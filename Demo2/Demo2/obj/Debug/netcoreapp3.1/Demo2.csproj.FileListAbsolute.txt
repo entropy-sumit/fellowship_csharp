@@ -1,0 +1,10 @@
+C:\Users\sumit\source\repos\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.AssemblyInfo.cs
+C:\Users\sumit\source\repos\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\fellowship program\fellowship_csharp\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\fellowship program\fellowship_csharp\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\fellowship program\fellowship_csharp\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\fellowship program\fellowship_csharp\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.AssemblyInfo.cs
+C:\Users\sumit\source\repos\fellowship program\fellowship_csharp\Demo2\Demo2\obj\Debug\netcoreapp3.1\Demo2.csproj.CoreCompileInputs.cache
