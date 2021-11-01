@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\Employwage\Employwage\bin\Debug\netcoreapp3.1\Employwage.exe
+C:\Users\sumit\source\repos\Employwage\Employwage\bin\Debug\netcoreapp3.1\Employwage.deps.json
+C:\Users\sumit\source\repos\Employwage\Employwage\bin\Debug\netcoreapp3.1\Employwage.runtimeconfig.json
+C:\Users\sumit\source\repos\Employwage\Employwage\bin\Debug\netcoreapp3.1\Employwage.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\Employwage\Employwage\bin\Debug\netcoreapp3.1\Employwage.dll
+C:\Users\sumit\source\repos\Employwage\Employwage\bin\Debug\netcoreapp3.1\Employwage.pdb
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.AssemblyInfo.cs
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.dll
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.pdb
+C:\Users\sumit\source\repos\Employwage\Employwage\obj\Debug\netcoreapp3.1\Employwage.genruntimeconfig.cache
