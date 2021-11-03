@@ -1,0 +1,5 @@
+C:\Users\sumit\source\repos\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfo.cs
+C:\Users\sumit\source\repos\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.CoreCompileInputs.cache
