@@ -1,0 +1,5 @@
+C:\Users\sumit\source\repos\AddNewContactToAddressBook\AddNewContactToAddressBook\obj\Debug\netcoreapp3.1\AddNewContactToAddressBook.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\AddNewContactToAddressBook\AddNewContactToAddressBook\obj\Debug\netcoreapp3.1\AddNewContactToAddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\AddNewContactToAddressBook\AddNewContactToAddressBook\obj\Debug\netcoreapp3.1\AddNewContactToAddressBook.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\AddNewContactToAddressBook\AddNewContactToAddressBook\obj\Debug\netcoreapp3.1\AddNewContactToAddressBook.AssemblyInfo.cs
+C:\Users\sumit\source\repos\AddNewContactToAddressBook\AddNewContactToAddressBook\obj\Debug\netcoreapp3.1\AddNewContactToAddressBook.csproj.CoreCompileInputs.cache
