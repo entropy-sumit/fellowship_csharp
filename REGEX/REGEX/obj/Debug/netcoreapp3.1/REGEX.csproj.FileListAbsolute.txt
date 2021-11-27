@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\REGEX\REGEX\bin\Debug\netcoreapp3.1\REGEX.exe
+C:\Users\sumit\source\repos\REGEX\REGEX\bin\Debug\netcoreapp3.1\REGEX.deps.json
+C:\Users\sumit\source\repos\REGEX\REGEX\bin\Debug\netcoreapp3.1\REGEX.runtimeconfig.json
+C:\Users\sumit\source\repos\REGEX\REGEX\bin\Debug\netcoreapp3.1\REGEX.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\REGEX\REGEX\bin\Debug\netcoreapp3.1\REGEX.dll
+C:\Users\sumit\source\repos\REGEX\REGEX\bin\Debug\netcoreapp3.1\REGEX.pdb
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.AssemblyInfo.cs
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.dll
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.pdb
+C:\Users\sumit\source\repos\REGEX\REGEX\obj\Debug\netcoreapp3.1\REGEX.genruntimeconfig.cache
