@@ -14,11 +14,11 @@ namespace REGEX
 
             //string check = "abc.xyz@bl.co.in";
 
-            //string check = "+918912345678";
+            string check = "+918912345678";
 
-            string check = "";
+           
 
-            Checking checking = new Checking();
+            Uc1 checking = new Uc1();
             CheckValue = checking.validating(check);
 
             if (CheckValue)
