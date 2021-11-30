@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\bin\Debug\netcoreapp3.1\QueueUc3.exe
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\bin\Debug\netcoreapp3.1\QueueUc3.deps.json
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\bin\Debug\netcoreapp3.1\QueueUc3.runtimeconfig.json
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\bin\Debug\netcoreapp3.1\QueueUc3.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\bin\Debug\netcoreapp3.1\QueueUc3.dll
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\bin\Debug\netcoreapp3.1\QueueUc3.pdb
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.AssemblyInfo.cs
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.dll
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.pdb
+C:\Users\sumit\source\repos\QueueUc3\QueueUc3\obj\Debug\netcoreapp3.1\QueueUc3.genruntimeconfig.cache

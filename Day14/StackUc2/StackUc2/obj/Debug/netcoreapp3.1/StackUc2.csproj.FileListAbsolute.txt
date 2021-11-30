@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\StackUc2\StackUc2\bin\Debug\netcoreapp3.1\StackUc2.exe
+C:\Users\sumit\source\repos\StackUc2\StackUc2\bin\Debug\netcoreapp3.1\StackUc2.deps.json
+C:\Users\sumit\source\repos\StackUc2\StackUc2\bin\Debug\netcoreapp3.1\StackUc2.runtimeconfig.json
+C:\Users\sumit\source\repos\StackUc2\StackUc2\bin\Debug\netcoreapp3.1\StackUc2.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\StackUc2\StackUc2\bin\Debug\netcoreapp3.1\StackUc2.dll
+C:\Users\sumit\source\repos\StackUc2\StackUc2\bin\Debug\netcoreapp3.1\StackUc2.pdb
+C:\Users\sumit\source\repos\StackUc2\StackUc2\obj\Debug\netcoreapp3.1\StackUc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\StackUc2\StackUc2\obj\Debug\netcoreapp3.1\StackUc2.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\StackUc2\StackUc2\obj\Debug\netcoreapp3.1\StackUc2.AssemblyInfo.cs
+C:\Users\sumit\source\repos\StackUc2\StackUc2\obj\Debug\netcoreapp3.1\StackUc2.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\StackUc2\StackUc2\obj\Debug\netcoreapp3.1\StackUc2.dll
+C:\Users\sumit\source\repos\StackUc2\StackUc2\obj\Debug\netcoreapp3.1\StackUc2.pdb
+C:\Users\sumit\source\repos\StackUc2\StackUc2\obj\Debug\netcoreapp3.1\StackUc2.genruntimeconfig.cache
