@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\bin\Debug\netcoreapp3.1\Alogrithm.exe
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\bin\Debug\netcoreapp3.1\Alogrithm.deps.json
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\bin\Debug\netcoreapp3.1\Alogrithm.runtimeconfig.json
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\bin\Debug\netcoreapp3.1\Alogrithm.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\bin\Debug\netcoreapp3.1\Alogrithm.dll
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\bin\Debug\netcoreapp3.1\Alogrithm.pdb
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.AssemblyInfo.cs
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.dll
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.pdb
+C:\Users\sumit\source\repos\Alogrithm\Alogrithm\obj\Debug\netcoreapp3.1\Alogrithm.genruntimeconfig.cache

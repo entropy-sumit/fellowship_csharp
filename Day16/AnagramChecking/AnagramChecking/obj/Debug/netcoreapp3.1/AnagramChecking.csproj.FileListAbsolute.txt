@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\bin\Debug\netcoreapp3.1\AnagramChecking.exe
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\bin\Debug\netcoreapp3.1\AnagramChecking.deps.json
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\bin\Debug\netcoreapp3.1\AnagramChecking.runtimeconfig.json
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\bin\Debug\netcoreapp3.1\AnagramChecking.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\bin\Debug\netcoreapp3.1\AnagramChecking.dll
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\bin\Debug\netcoreapp3.1\AnagramChecking.pdb
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\obj\Debug\netcoreapp3.1\AnagramChecking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\obj\Debug\netcoreapp3.1\AnagramChecking.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\obj\Debug\netcoreapp3.1\AnagramChecking.AssemblyInfo.cs
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\obj\Debug\netcoreapp3.1\AnagramChecking.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\obj\Debug\netcoreapp3.1\AnagramChecking.dll
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\obj\Debug\netcoreapp3.1\AnagramChecking.pdb
+C:\Users\sumit\source\repos\AnagramChecking\AnagramChecking\obj\Debug\netcoreapp3.1\AnagramChecking.genruntimeconfig.cache

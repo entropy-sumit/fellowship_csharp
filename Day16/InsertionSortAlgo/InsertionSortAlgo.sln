@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortAlgo", "InsertionSortAlgo\InsertionSortAlgo.csproj", "{0B44DEEF-9A6F-4E6A-96AD-A9E331D47C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B44DEEF-9A6F-4E6A-96AD-A9E331D47C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B44DEEF-9A6F-4E6A-96AD-A9E331D47C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B44DEEF-9A6F-4E6A-96AD-A9E331D47C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B44DEEF-9A6F-4E6A-96AD-A9E331D47C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E187D8-EF95-41EA-8188-6BDF17AA5AED}
+	EndGlobalSection
+EndGlobal

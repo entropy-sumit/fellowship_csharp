@@ -1,0 +1,5 @@
+C:\Users\sumit\source\repos\InsertionSortAlgo\InsertionSortAlgo\obj\Debug\netcoreapp3.1\InsertionSortAlgo.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\InsertionSortAlgo\InsertionSortAlgo\obj\Debug\netcoreapp3.1\InsertionSortAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\InsertionSortAlgo\InsertionSortAlgo\obj\Debug\netcoreapp3.1\InsertionSortAlgo.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\InsertionSortAlgo\InsertionSortAlgo\obj\Debug\netcoreapp3.1\InsertionSortAlgo.AssemblyInfo.cs
+C:\Users\sumit\source\repos\InsertionSortAlgo\InsertionSortAlgo\obj\Debug\netcoreapp3.1\InsertionSortAlgo.csproj.CoreCompileInputs.cache
