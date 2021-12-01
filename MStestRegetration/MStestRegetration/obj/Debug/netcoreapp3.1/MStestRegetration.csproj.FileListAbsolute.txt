@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\bin\Debug\netcoreapp3.1\MStestRegetration.exe
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\bin\Debug\netcoreapp3.1\MStestRegetration.deps.json
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\bin\Debug\netcoreapp3.1\MStestRegetration.runtimeconfig.json
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\bin\Debug\netcoreapp3.1\MStestRegetration.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\bin\Debug\netcoreapp3.1\MStestRegetration.dll
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\bin\Debug\netcoreapp3.1\MStestRegetration.pdb
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.AssemblyInfo.cs
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.dll
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.pdb
+C:\Users\sumit\source\repos\MStestRegetration\MStestRegetration\obj\Debug\netcoreapp3.1\MStestRegetration.genruntimeconfig.cache
