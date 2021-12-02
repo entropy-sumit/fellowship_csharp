@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\bin\Debug\netcoreapp3.1\ReflectionOfRegistration.exe
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\bin\Debug\netcoreapp3.1\ReflectionOfRegistration.deps.json
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\bin\Debug\netcoreapp3.1\ReflectionOfRegistration.runtimeconfig.json
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\bin\Debug\netcoreapp3.1\ReflectionOfRegistration.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\bin\Debug\netcoreapp3.1\ReflectionOfRegistration.dll
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\bin\Debug\netcoreapp3.1\ReflectionOfRegistration.pdb
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.AssemblyInfo.cs
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.dll
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.pdb
+C:\Users\sumit\source\repos\ReflectionOfRegistration\ReflectionOfRegistration\obj\Debug\netcoreapp3.1\ReflectionOfRegistration.genruntimeconfig.cache
