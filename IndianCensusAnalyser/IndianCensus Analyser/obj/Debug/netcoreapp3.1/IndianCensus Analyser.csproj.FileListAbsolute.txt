@@ -1,0 +1,70 @@
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\TraceReloggerLib.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Dia2Lib.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\OSExtensions.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\x86\KernelTraceControl.Win61.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\x86\msdia140.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\x86\msvcp140.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\x86\vcruntime140.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\amd64\KernelTraceControl.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\amd64\msdia140.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\amd64\msvcp140.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\amd64\vcruntime140.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\amd64\vcruntime140_1.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\IndianCensus Analyser.exe
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\IndianCensus Analyser.deps.json
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\IndianCensus Analyser.runtimeconfig.json
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\IndianCensus Analyser.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\IndianCensus Analyser.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\IndianCensus Analyser.pdb
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\BenchmarkDotNet.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\BenchmarkDotNet.Annotations.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Iced.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Runtime.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\Perfolizer.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.AssemblyInfo.cs
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.csproj.CopyComplete
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.dll
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.pdb
+C:\Users\sumit\source\repos\IndianCensus Analyser\IndianCensus Analyser\obj\Debug\netcoreapp3.1\IndianCensus Analyser.genruntimeconfig.cache
